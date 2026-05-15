@@ -4,7 +4,7 @@ export const profile = {
   name: "Mikhaela Faye M. Bigueras",
   shortName: "Mikki",
   oneLiner: "Founder & builder. Based in Manila.",
-  bio: "I build things at the intersection of AI, hardware, and Filipino-first design. Currently co-founding three startups across beauty tech, agri-tech, and collaboration — and leading the technical side of Mapua Machina, a national-championship robotics team.",
+  bio: "Building things at the intersection of AI, hardware, and Filipino-first design. Currently co-founding three startups across beauty tech, agri-tech, and collaboration — and the Technical Lead of Mapua Machina robotics team.",
   location: "Manila, Philippines",
   email: "mfmbigueras@gmail.com",
   links: {
